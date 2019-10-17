@@ -1,0 +1,1 @@
+All sprite sheets in this folder should be 72x72, so if you slice them by cell size 72x72 it should work perfectly.

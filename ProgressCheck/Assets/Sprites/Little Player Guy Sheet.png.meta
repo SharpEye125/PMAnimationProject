@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: a3e84a26fa5eacb46b456505ef3e4d98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6042961704782325050
+    second: Little Player Guy Sheet_0
+  - first:
+      213: 5181315116715032543
+    second: Little Player Guy Sheet_1
+  - first:
+      213: -7183851146605704376
+    second: Little Player Guy Sheet_2
+  - first:
+      213: 8612320269363458035
+    second: Little Player Guy Sheet_3
+  - first:
+      213: 1409967297820505022
+    second: Little Player Guy Sheet_4
+  - first:
+      213: 2303225056929100391
+    second: Little Player Guy Sheet_5
+  - first:
+      213: -950500682799400672
+    second: Little Player Guy Sheet_6
+  - first:
+      213: -740818656494715884
+    second: Little Player Guy Sheet_7
+  - first:
+      213: 5683347151203491359
+    second: Little Player Guy Sheet_8
+  - first:
+      213: 2273422353157818105
+    second: Little Player Guy Sheet_9
+  - first:
+      213: 1865236200752366911
+    second: Little Player Guy Sheet_10
+  - first:
+      213: 5326840986151091035
+    second: Little Player Guy Sheet_11
+  - first:
+      213: -8256834648301444979
+    second: Little Player Guy Sheet_12
+  - first:
+      213: 1513359499728446929
+    second: Little Player Guy Sheet_13
+  - first:
+      213: 4014734517332138010
+    second: Little Player Guy Sheet_14
+  - first:
+      213: -3767869733030934913
+    second: Little Player Guy Sheet_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Little Player Guy Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206.25
+        width: 45.75
+        height: 68.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb20aec9f1d0984ba062c4918e395a7
+      internalID: -6042961704782325050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Player Guy Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 206.25
+        width: 45.75
+        height: 68.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363e5ba09dc7c64439647cf5267259d9
+      internalID: 5181315116715032543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Player Guy Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 206.25
+        width: 45.75
+        height: 68.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474601ce584fe0b49aa3a00e5353420c
+      internalID: -7183851146605704376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Player Guy Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 206.25
+        width: 45.75
+        height: 68.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0706e2606c32a1149b95fa5b04cff946
+      internalID: 8612320269363458035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Player Guy Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138.25
+        width: 45.75
+        height: 68.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459a7b284aed24b4293255df0b08512c
+      internalID: 1409967297820505022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Player Guy Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 138.25
+        width: 45.75
+        height: 68.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae86f003cffef044d8d7e0351b13eb12
+      internalID: 2303225056929100391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Player Guy Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 138.25
+        width: 45.75
+        height: 68.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7329194bc19f00498cea4808869ef5e
+      internalID: -950500682799400672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Player Guy Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 138
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb9666c5e6b0dd4b87bd812a51fc93c
+      internalID: -740818656494715884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Player Guy Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70.25
+        width: 45.75
+        height: 68.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496227fa2db48df4bbbe7f1563a352f8
+      internalID: 5683347151203491359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Player Guy Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 70.25
+        width: 45.75
+        height: 68.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b50173c05432e94b859ebcdc2aadff7
+      internalID: 2273422353157818105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Player Guy Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 70.25
+        width: 45.75
+        height: 68.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3babcdb24f6d22c48a9fe9a04e6adef0
+      internalID: 1865236200752366911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Player Guy Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 70.25
+        width: 45.75
+        height: 68.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8e23ecb0801b7439dcb8390bad0026
+      internalID: 5326840986151091035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Player Guy Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 45.75
+        height: 68.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39aad0a07c843542a6c515f1fec5058
+      internalID: -8256834648301444979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Player Guy Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2.25
+        width: 45.75
+        height: 68.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2673222c4a57c46857cf48508d167c
+      internalID: 1513359499728446929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Player Guy Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2.25
+        width: 45.75
+        height: 68.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab140d6e636c504085ec72f25d6a66d
+      internalID: 4014734517332138010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Player Guy Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2.25
+        width: 45.75
+        height: 68.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b0ad0021790e24cbce9dc68649cb80
+      internalID: -3767869733030934913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

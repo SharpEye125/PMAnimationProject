@@ -1,0 +1,1 @@
+Make sure to check the size of the files when importing to know how to slice and size them appropriately. 
